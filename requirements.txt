@@ -1,0 +1,16 @@
+langchain
+openai
+huggingface-hub
+torch
+accelerate
+sentence_transformers
+streamlit_chat
+streamlit
+faiss-cpu
+tiktoken
+ctransformers
+pypdf
+python-dotenv
+replicate
+docx2txt
+llama-cpp-python
