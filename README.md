@@ -47,5 +47,6 @@ This command will start the Streamlit application, and you can access it in your
 #### 5) Usage:
 Open the application in your web browser. Use the sidebar to upload documents (PDF, TXT, DOCX). The application will process the documents and create a vector database. Interact with the model by typing questions in the input field. The model will provide intelligent responses based on the uploaded documents.
 
-## Acknowledgments
-Special thanks to LangChain and Hugging Face for their incredible tools and libraries.
+## Chatbot Screenshots
+![WhatsApp Image 2024-04-12 at 21 53 47_b6f69e3d](https://github.com/Shanu-Mathew/Chat-Vista/assets/90182268/8e082b89-10c8-44da-9c22-613f8f55e88a)
+![WhatsApp Image 2024-04-12 at 22 16 21_a83d65e6](https://github.com/Shanu-Mathew/Chat-Vista/assets/90182268/edf7f087-d7e0-4877-8598-6d1973ef9166)
